@@ -1,0 +1,33 @@
+body {
+    color:red;
+}
+a {
+    color: red;
+}
+h1 {
+    border: 5px solid black;
+}
+h2 {
+    border-bottom: 5px solid black;
+}
+#id-label-mijn-body-element{
+    background-color: green;
+}
+
+#id-label-mijn-main-element{
+    background-color: green;
+}
+
+#id-label-mijn-footer-element{
+    background-color: green;
+}
+img {
+    border: 5px solid white;
+}
+
+div.a {
+     line-height: 20%;
+}
+body {
+    font-family: 'Courier New', monospace;
+}
